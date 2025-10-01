@@ -80,47 +80,10 @@ High booking cancellation rates are costing hotels revenue and leaving rooms vac
 ## 📁 Repository Structure
 
 Hotel-Booking-Analysis/
+├── Unlocking_HotelBooking_Data.ipynb  # Main analysis notebook  
+├── data/                               # Raw & processed datasets  
+├── images/                             # Visualizations & charts  
+├── README.md                            # This file  
+└── requirements.txt                    # Python dependencies
 
-├── Unlocking_HotelBooking_Data.ipynb  # Main analysis notebook
-├── data/                              # Raw & processed datasets
-├── images/                            # Visualizations & charts
-├── README.md                           # This file
-└── requirements.txt                   # Python dependencies
-
----
-
-## 📈 Visual Highlights
-
-- Monthly booking trends & cancellation rates  
-- Price vs. cancellation correlation  
-- Booking channel analysis  
-- Geographical distribution of cancellations  
-
-*(Check the notebook for full interactive visualizations)*
-
----
-
-## 🚀 How to Run
-
-1. Clone this repo:  
-```bash
-git clone https://github.com/<your-username>/Hotel-Booking-Analysis.git
-
-4.	Explore the analysis & visualizations
-
-⸻
-
-📌 Next Steps
-	•	Build predictive models for cancellations
-	•	Integrate advanced machine learning techniques to forecast booking trends
-	•	Develop a dashboard for real-time hotel management insights
-
-⸻
-
-🤝 Connect & Collaborate
-
-I’d love feedback, suggestions, or collaboration ideas!
-	•	💼 LinkedIn
-	•	📧 gopalrawwatt@gmail.com
-	•	⭐ Don’t forget to star this repo if it helps you!
 
