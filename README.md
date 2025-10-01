@@ -1,6 +1,5 @@
 # 🏨 Unlocking Hotel Booking Insights
 
-![Hotel Booking Banner](https://images.unsplash.com/photo-1582719478184-7c4b0d44eecd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=MnwxNjA3fDB8MHwxfHNlYXJjaHwxfHxob3RlbCUyMGJvb2tpbmd8ZW58MHx8fHwxNjk1Mjk2ODUy&ixlib=rb-4.0.3&q=80&w=1080)
 
 **A data-driven exploration into hotel booking patterns, cancellations, and revenue optimization strategies.**  
 
