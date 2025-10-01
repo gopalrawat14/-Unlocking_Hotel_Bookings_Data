@@ -87,5 +87,19 @@ Hotel-Booking-Analysis/
 └── requirements.txt                       # Python dependencies
 
 
+## 📌 Next Steps
 
+- Build predictive models for cancellations  
+- Integrate advanced machine learning techniques to forecast booking trends  
+- Develop a dashboard for real-time hotel management insights  
+
+---
+
+## 🤝 Connect & Collaborate
+
+I’d love feedback, suggestions, or collaboration ideas!  
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gopalrawat/)  
+- 📧 gopalrawwatt@gmail.com  
+- ⭐ Don’t forget to star this repo if it helps you!
 
