@@ -86,3 +86,22 @@ Hotel-Booking-Analysis/
 ├── images/                            # Visualizations & charts
 ├── README.md                           # This file
 └── requirements.txt                   # Python dependencies
+
+---
+
+## 📈 Visual Highlights
+
+- Monthly booking trends & cancellation rates  
+- Price vs. cancellation correlation  
+- Booking channel analysis  
+- Geographical distribution of cancellations  
+
+*(Check the notebook for full interactive visualizations)*
+
+---
+
+## 🚀 How to Run
+
+1. Clone this repo:  
+```bash
+git clone https://github.com/<your-username>/Hotel-Booking-Analysis.git
