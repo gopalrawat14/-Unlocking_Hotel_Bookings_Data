@@ -78,8 +78,8 @@ High booking cancellation rates are costing hotels revenue and leaving rooms vac
 ---
 
 ## 📁 Repository Structure
+
 Hotel-Booking-Analysis/
-│
 ├── Unlocking_HotelBooking_Data.ipynb  # Main analysis notebook
 ├── data/                              # Raw & processed datasets
 ├── images/                            # Visualizations & charts
