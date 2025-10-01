@@ -73,3 +73,11 @@ Unlike a generic data analysis repo, this project:
 ---
 
 ## 📁 Repository Structure
+
+Hotel-Booking-Analysis/
+│
+├── Unlocking_HotelBooking_Data.ipynb  # Main analysis notebook
+├── data/                              # Raw & processed datasets
+├── images/                            # Visualizations & charts
+├── README.md                           # This file
+└── requirements.txt                   # Python dependencies
